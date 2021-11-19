@@ -1,0 +1,1 @@
+export type DATA_OBJ = {name: string, value: number}
